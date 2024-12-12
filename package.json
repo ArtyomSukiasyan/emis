@@ -1,0 +1,14 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "mammoth": "^1.8.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
